@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteDolgozat", "SQLiteDolgozat\SQLiteDolgozat.csproj", "{6DDD5ECC-6EB0-4058-9E2A-05F0AEDBD56E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DDD5ECC-6EB0-4058-9E2A-05F0AEDBD56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDD5ECC-6EB0-4058-9E2A-05F0AEDBD56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDD5ECC-6EB0-4058-9E2A-05F0AEDBD56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDD5ECC-6EB0-4058-9E2A-05F0AEDBD56E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3961F3A-9215-430A-A8D2-D26F04AB702D}
+	EndGlobalSection
+EndGlobal

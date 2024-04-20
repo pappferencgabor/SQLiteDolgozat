@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "544xnZJM7Pn3Zh6jftxjF/Ym5HnZK2YU0l9628PNYpNX5syhehadRORCX9m0lxQwa/cPiyT/hcMFXTVtu1LiIg==",
+  "success": true,
+  "projectFilePath": "D:\\Szísárp projects\\SQLiteDolgozat\\SQLiteDolgozat\\SQLiteDolgozat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pfeco\\.nuget\\packages\\microsoft.data.sqlite\\8.0.4\\microsoft.data.sqlite.8.0.4.nupkg.sha512",
+    "C:\\Users\\pfeco\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
+    "C:\\Users\\pfeco\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\pfeco\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\pfeco\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\pfeco\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\pfeco\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
